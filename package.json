@@ -1,0 +1,16 @@
+{
+  "name": "photo_gallery",
+  "version": "1.0.0",
+  "description": "photo_gallery",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "photo",
+    "gallery"
+  ],
+  "author": "Tingchang Deng",
+  "license": "ISC"
+}
